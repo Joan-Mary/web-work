@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.narvbar{
+    color: white;
+    justify-content:space-around;
+    display: flex;
+    list-style: none;
+    background-color: maroon;
+    padding-top: 20px;
+    margin: auto;
+    align-content: center;
+    
+}
+.acc{
+    margin-left: 40%;
+}
+.but{
+    height: 20px;
+}
+.narvbar h1{
+    margin-top: -10px;
+    margin-left: 35px;
+}
+#togglePassword{
+    z-index: 2px;
+    
+}
+.ut{
+    border-radius: 30px;
+    background-color:orange
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: greenyellow;
+    size: 20px;
+}
+.bur{
+    background-color: orangered;
+    border: none;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px;
+    cursor: pointer;
+    height: 10px;
+    width: 360px;
+    border-radius: 20px;
+    color: white;
+}

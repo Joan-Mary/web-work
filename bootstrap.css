@@ -1,0 +1,29 @@
+.navbar a{
+    color:purple;
+}
+.dropdown-item{
+    color: red;
+}
+.bur{
+    background-color: orangered;
+    border: none;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size:13px;
+    margin: 4px;
+    cursor: pointer;
+    height: 30px;
+    width: 350px;
+    border-radius: 10px;
+    color: white;
+}
+.char{
+    margin-left: 35%;
+    color: white;
+     
+}
+.red{
+    background-color: black;
+}
