@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.red{
+    background-color: black;
+    
+}
 .narvbar{
     color: white;
     justify-content:space-around;
